@@ -54,6 +54,7 @@
         var email = $('#email').val();
         var subject = $('#subject').val();
         var message = $('#message').val();
+        console.log(name + email);
         $.ajax({
           url: "https://docs.google.com/forms/d/1HPvHTlmgOpJzUg_U8FNiGUYpnS8jHsfIKNIOOYxFnso/viewform",
           data: { "entry.1105235552": name, "entry.199958164": email, 
