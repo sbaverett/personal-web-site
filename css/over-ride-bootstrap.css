@@ -42,24 +42,6 @@ h6,
   background-color: #EBD145;
 }
 
-#white {
-  padding-top: 48px;
-  background-color: #fff;
-}
-
-.img {
-  max-height: 150px;
-  max-width: 150px;
-  /*padding: 4px;*/
-  border:2px;
-  border-color: #fff;
-  border-style:solid
-}
-
-.copyright {
-  font-size: 8px;
-}
-
 hr {  
   color: #D4AB34;
   background-color: #D4AB34;
