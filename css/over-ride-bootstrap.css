@@ -48,3 +48,10 @@ hr {
   height: 6px;
   margin-top: 20px;
 }
+
+.img {
+  border-style: solid;
+  border-color: #fff;
+  border-width: 8px;
+  max-width: 150px;
+}
